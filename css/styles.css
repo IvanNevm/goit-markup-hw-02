@@ -1,6 +1,6 @@
 /*
  Доброго дня) Ці помилки стосуються не секції Портфоліо,
- а секції Our team. Саме у цій секції для заголовка h2 потрібно задати text-transform: capitalize;
+ а секції Our team. Саме у цій секції для заголовка h2 потрібно задати 
  А для елементів списку (li) - background-color: #FFFFFF;*/
 
 body {
@@ -142,6 +142,7 @@ font-weight: 700;
 
 
 .portfolio-title {
+    text-transform: capitalize;
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
