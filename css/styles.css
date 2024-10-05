@@ -1,12 +1,8 @@
-/*
- Доброго дня) Ці помилки стосуються не секції Портфоліо,
- а секції Our team. Саме у цій секції для заголовка h2 потрібно задати 
- А для елементів списку (li) - background-color: #FFFFFF;*/
 
 body {
 font-family: "Roboto", sans-serif;
 color: #434455;
-background-color: #fff;
+background-color: #FFFFFF;
 }
 ul,ol {
     list-style-type: none;
