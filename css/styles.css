@@ -64,7 +64,7 @@ a {
 }
 
 .button-first {
-    font-family: "Raleway", sans-serif;
+    font-family: inherit;
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -73,7 +73,8 @@ a {
     color: #fff;
     cursor: pointer;
 }
-.button-first:hover {
+.button-first:hover,
+.button-first:active {
     background-color: #404bbf;
 }
   /* ============================2nd section=======================*/
