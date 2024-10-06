@@ -75,7 +75,7 @@ a {
 }
 .button-first:hover,
 .button-first:active {
-    background-color: #404bbf;
+    background-color: #404BBF;
 }
   /* ============================2nd section=======================*/
 .advantages {
@@ -114,6 +114,7 @@ font-weight: 700;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 
